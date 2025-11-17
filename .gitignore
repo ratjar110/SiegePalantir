@@ -1,0 +1,4 @@
+.env
+enemy_analysis.txt
+__pycache__/
+desktop.ini

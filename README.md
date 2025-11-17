@@ -1,0 +1,1 @@
+Palantir like service for Rainbow Six Siege, to get started you will need to install the "requirements.txt" file with something like pip "pip install -r requirements.txt" after that you run the file and input the usernames of the players on the enemy team and watch the magic happen.
